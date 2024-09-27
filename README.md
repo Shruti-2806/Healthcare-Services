@@ -56,5 +56,3 @@ https://projecthealthcareservices.netlify.app
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to modify this `README.md` to match your actual project structure and features. Let me know if you need help with anything else!
