@@ -16,7 +16,8 @@ Features
 
 ## Live Demo
 
-[[Deployment link of your app goes here]](https://projecthealthcareservices.netlify.app)
+https://projecthealthcareservices.netlify.app
+
 
 ## Installation and Setup Instructions
 
