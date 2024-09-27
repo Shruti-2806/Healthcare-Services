@@ -22,8 +22,8 @@ Features
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/healthcare-services-app.git
-   cd healthcare-services-app
+   git clone "https://github.com/Shruti-2806/Healthcare-Services.git"
+   cd healthcare-services
    ```
 
 2. **Install dependencies**:
