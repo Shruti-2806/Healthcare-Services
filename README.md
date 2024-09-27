@@ -10,7 +10,7 @@ Features
 4. **Delete Service**: Provides functionality to remove a service from the list.
 5. **State Management**: Uses React hooks (`useState`, `useEffect`) to manage the state of the services.
 
-### Bonus Features (Optional):
+### Bonus Features:
 - Form validation: Ensures all fields are filled out before a new service is added.
 - Application styled using basic CSS or UI framework like Bootstrap.
 
